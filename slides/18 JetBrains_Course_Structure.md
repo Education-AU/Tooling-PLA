@@ -20,6 +20,7 @@ template: default
     It also contains a short intro to Jupyter projects.
 
     The second lesson is about the language, very compressed.
+
   </div>
 
   <div style="flex: 0 0 38%; display: flex; justify-content: center; align-items: center;">
